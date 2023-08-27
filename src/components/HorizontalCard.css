@@ -1,0 +1,31 @@
+.image-card1 h3{
+   display: block;
+   
+    text-align: center;
+    justify-content: center;
+}
+.image-card1 {
+    margin-top: 10px;
+      display: flex;
+      justify-content:space-around;
+      background-color:aliceblue;
+    }
+    
+    .image-container1 {
+      text-align: center;
+    }
+    
+    .image-container1 img {
+      margin-top: 20px;
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+    }
+    
+    .image-container1 p {
+      color:black;
+      margin-top: 5px;
+      font-style: italic;
+    
+    }
+    
